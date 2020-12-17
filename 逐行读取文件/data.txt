@@ -1,0 +1,1 @@
+['A', 'D', 'A', 'D', 'D', 'A', 'B', 'A', 'A', 'B', 'C', 'A', 'C', 'B', 'A', 'D', 'D', 'B', 'B', 'B', 'C', 'B', 'A', 'B', 'B', 'C', 'B', 'A', 'C', 'B', 'D', 'C', 'B', 'A', 'A', 'B', 'A', 'B', 'D', 'C', 'B', 'C', 'D', 'AC', 'ABC', 'ABC', 'ABC', 'ABCD', 'AB', 'ACBD', 'ABCD', 'ABD', 'ACD', 'BD', 'BC', 'BCD', 'BCD', 'ABCD', 'CD', 'ABCD']
